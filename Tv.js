@@ -3,7 +3,7 @@ TV_image = "";
 objects = [];
 
 function preload(){
-    TV_image = loadImage("Tv.jfif");
+    TV_image = loadImage("Tv.jpg");
 }
 
 function setup(){
